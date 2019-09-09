@@ -1,0 +1,38 @@
+h1{
+    font:26px roboto medium;
+    color:#7e0145;
+    word-spacing: 8px;
+}
+h2{
+    font:22px roboto regular;
+  }
+  h3{
+    font:18px roboto regular;
+  }
+  li{
+    font: 14px roboto;
+  }
+  a{
+      color: #7e0145;
+  }
+.caja{
+    margin-left: 250px;
+}
+.caja1{
+    margin-left: 50px;
+    width: 400px;
+    padding: 20px;
+    float: left;
+}
+.caja2{
+    width: 230px;
+    height: 600px;
+    padding: 20px;
+    background: #fabdbd;
+    float: left;
+}
+.imig{
+    position: absolute;
+    left: 100px;
+    top: 15px;
+}
